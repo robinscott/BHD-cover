@@ -2,7 +2,10 @@
 Artwork for BHD album cover
 
 ## Fonts
-Fonts used in the artwork come from [dafont](https://www.dafont.com)
+Fonts used in the artwork come from [dafont](https://www.dafont.com) and [1001Fonts](https://www.1001fonts.com)
+- [PT Sans](https://www.1001fonts.com/pt-sans-font.html)
+- [Abuget](https://www.dafont.com/abuget.font)
+- [Universal Serif](https://www.dafont.com/universal-serif.font)
 - [NORIKEE](https://www.dafont.com/norikee.font)
 - [Base 02](https://www.dafont.com/base-02.font)
 
