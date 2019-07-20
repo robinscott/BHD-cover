@@ -1,4 +1,4 @@
-# BHD-cover
+# Black Hawk Down cover
 Artwork for BHD album cover
 
 ## Fonts
